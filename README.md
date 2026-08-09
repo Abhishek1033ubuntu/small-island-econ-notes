@@ -3,6 +3,9 @@
 An in-depth macroeconomic analysis, financial architecture evaluation, and sustainable development model for **Tuvalu**—the world's smallest sovereign economy by nominal GDP.
 
 ---
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21863340.svg)](https://doi.org/10.5281/zenodo.21863340) 
+![Status](https://img.shields.io/badge/Status-Research_POC-orange) 
+![Type](https://img.shields.io/badge/Type-Simulation_Model-blue)
 
 ## Executive Summary
 
