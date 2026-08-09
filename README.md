@@ -49,3 +49,33 @@ This study examines Tuvalu’s baseline macroeconomics, conducts PEST and SWOT e
 ## Business Model: "Atoll Explorer Tuvalu"
 
 To bypass land tenure constraints and protect fragile lagoon coral reefs, the report proposes a high-value, ultra-low-footprint **50-foot Solar-Hybrid Power Catamaran Liveaboard**.
+
+[ 8 Guests / Charter ] ──($4,500/wk)──> [ 36 Weeks / Year ] ──> $1,296,000 Gross Revenue
+│
+▼
+[ $580,000 USD OpEx ]
+│
+▼
+[ $716,000 USD EBITDA ]
+(Payback: ~2.8 Years)
+
+### Capital Expenditure (CapEx)
+| Item | Cost (USD) |
+| :--- | :--- |
+| Pre-Owned 50ft Solar-Hybrid Power Catamaran | $1,100,000 |
+| Transit Delivery & Customs Entry | $85,000 |
+| Marine Scuba Compressors & Equipment | $45,000 |
+| Dual Low-Draft Tender Skiffs | $40,000 |
+| Solar Array, Battery & RO Desalination Upgrades | $50,000 |
+| Working Capital & Contingency Reserve | $180,000 |
+| **Total CapEx** | **$1,500,000** |
+
+### Stress-Test Simulation Results
+1. **Aviation Disruption (50% Flight Occupancy):** Net Margin remains positive at **+$195,000 USD**.
+2. **Global Import Inflation (+35% Food/Fuel Costs):** Rooftop solar insulation and local fresh pelagic fish procurement preserve Net Margin at **+$554,000 USD**.
+3. **Conservation Contribution:** Mandatory $150/guest eco-fees inject **~$43,000 USD annually** directly into the *Funafuti Kaupule* local council marine conservation fund.
+
+---
+
+## License & Citation
+This open research document is made available for academic, policy, and business development study regarding micro-state economies and island financial systems.
