@@ -1,5 +1,6 @@
 # Sovereign Financial System Study & Eco-Tourism Feasibility Report: Tuvalu
----
+
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21863348.svg)](https://doi.org/10.5281/zenodo.21863348)
 ![Status](https://img.shields.io/badge/Status-Research_POC-orange)
 ![Type](https://img.shields.io/badge/Type-Simulation_Model-blue)
@@ -82,3 +83,5 @@ To bypass land tenure constraints and protect fragile lagoon coral reefs, the re
 
 ## License & Citation
 This open research document is made available for academic, policy, and business development study regarding micro-state economies and island financial systems.
+
+Note on References & IP: Detailed citations and literature references are restricted to protect Intellectual Property. See References.md for details or to request access.
